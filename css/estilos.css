@@ -2,3 +2,9 @@ body {
     text-align: center;
     color: blue;
 }
+
+#container {
+    color: red;
+    background-color: aqua;
+    border: 5px;
+}
